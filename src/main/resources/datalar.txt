@@ -1,0 +1,14 @@
+--INSERT INTO transactions values(1478192204000, 312.3);
+--INSERT INTO transactions values(1478192208000, 122.3);
+--INSERT INTO transactions values(1478192204600, 127.3);
+
+--
+-- CREATE TABLE summary
+-- (
+--   timestamp BIGINT NOT NULL ,
+--   sum DOUBLE NOT NULL ,
+--   avarage DOUBLE NOT NULL ,
+--   max DOUBLE NOT NULL ,
+--   min DOUBLE NOT NULL ,
+--   count INT NOT NULL
+-- );
